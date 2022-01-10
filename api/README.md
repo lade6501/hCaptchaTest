@@ -1,2 +1,2 @@
 # react-nodejs-example
-Example Project demonstrating how to develop React application with Nodejs 
+Example Project demonstrating Use of Hcaptcha with react and node js 
